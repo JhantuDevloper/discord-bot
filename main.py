@@ -10,7 +10,7 @@ from threading import Thread
 # ====================================================================
 # 🌐 KEEP-ALIVE WEB SERVER (Bot ko 24/7 online rakhne ke liye)
 # ====================================================================
-app = Flask('')
+app = Flask('') 
 
 @app.route('/')
 def home():
