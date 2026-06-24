@@ -268,8 +268,8 @@ async def resetall(ctx):
 # ====================================================================
 keep_alive()
 
-# 🔴 DHAYAN SE: Niche "PASTE_YOUR_DISCORD_BOT_TOKEN_HERE" ko mitao 
+# 🔴 DHAYAN SE: Niche "MTUxOTE2NjI5NDc2NTg2NzExOA.GqXU8n.KKHF536WhQyGfICP0JVPjhFJdN-xWci0I8OQuU" ko mitao 
 # aur uski jagah apna asli lambi chabi (Token) daal do.
 # Yaad rakhna, quotes "" ke andar hi hona chahiye aur enter dabakar todna nahi hai!
 
-bot.run("MTUxOTE2NjI5NDc2NTg2NzExOA.GtDfOI.fggk-zgtWhyw_FPNwAALmPHqr4VSHaFn5y5yhE")
+bot.run("MTUxOTE2NjI5NDc2NTg2NzExOA.GqXU8n.KKHF536WhQyGfICP0JVPjhFJdN-xWci0I8OQuU")
