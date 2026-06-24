@@ -168,10 +168,7 @@ async def on_message(message):
                 try:
                     await message.delete()
                     warning_msg = await message.channel.send(
-                        f"⚠️ {message.author.mention}, is channel me sirf details allowed hain!\n"
-                        "```\nFormat:\n1. In Game Name (IGN):\n2. Game ID:\n3. Instagram ID Link:\n
-```"
-                    )
+                        f"⚠️ {message.author.mention}, is channel me sirf details allowed hain!\n""```\nFormat:\n1. In Game Name (IGN):\n2. Game ID:\n3. Instagram ID Link:\n```" )
                     await asyncio.sleep(5)
                     await warning_msg.delete()
                 except: pass
