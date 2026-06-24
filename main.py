@@ -34,9 +34,9 @@ bot = commands.Bot(command_prefix="!", intents=intents, help_command=None)
 # ====================================================================
 # ⚠️ CONFIGURATION: Apne Server ke Channels ki ID yahan badlo!
 # ====================================================================
-TEST_CHANNEL_ID = 123456789012345678      # Jahan single players details aur join bhejenge
-SQUAD_CHANNEL_ID = 123456789012345678     # Jahan automatic bani hui squads post hongi
-TEAM_DETAILS_CHANNEL_ID = 123456789012345678  # Jahan full squads register karengi
+TEST_CHANNEL_ID = 1519054759682637966      # Jahan single players details aur join bhejenge
+SQUAD_CHANNEL_ID = 1519253849486135380    # Jahan automatic bani hui squads post hongi
+TEAM_DETAILS_CHANNEL_ID = 1519195214978355300  # Jahan full squads register karengi
 
 # Global Memory Database
 waiting_queue = []     # Line me khade active players
