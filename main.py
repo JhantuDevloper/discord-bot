@@ -80,7 +80,7 @@ async def on_message(message):
     # ----------------------------------------------------------------
     # 1. SINGLE PLAYER CHANNEL LOGIC
     # ----------------------------------------------------------------
-    if message.channel.id == TEST_CHANNEL_ID:
+    if message.channel.id == 1519054759682637966:
         
         # Flexi-Join Trigger (Player chahe '!join' likhe ya sirf 'join')
         if msg_text == "!join" or msg_text == "join" or msg_text.startswith("join"):
